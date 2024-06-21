@@ -1,5 +1,3 @@
-![](https://play-lh.googleusercontent.com/Xg1at7nB7vpsHB1xOb3kD332DyjeLKpeFF-wOYkM86VrsSQ_uHWclfSk4RyTIWHfoQ=w240-h480-rw)
-
 # Star Race
 
 Dodge the shooting star from obstacles for as long as you can! How long can you hold out?
